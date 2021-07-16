@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests of <CounterApp />  should show <CounterApp /> correctly (do match with snapShot) 1`] = `
+<Fragment>
+  <h1>
+    Counter APP
+  </h1>
+  <h2>
+     
+    10
+     
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+     +1 
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     reset 
+  </button>
+  <button
+    onClick={[Function]}
+  >
+     -1 
+  </button>
+</Fragment>
+`;
